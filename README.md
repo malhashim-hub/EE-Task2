@@ -6,5 +6,5 @@ Server Motor with Arduion
 https://www.tinkercad.com/things/4RI9X8INNjv-copy-of-servo-motor-arduino/editel?tenant=circuits
 
 DC motor with Arduion
-![Copy of servo motor arduino](https://github.com/malhashim-hub/EE-Task1/assets/119134365/ba8b5c07-fa71-4c18-ae09-3fd86b3499c9)
+![Copy of DC Gear with L298N ](https://github.com/malhashim-hub/EE-Task1/assets/119134365/d1a5891e-6f7c-416c-a20f-8d5529a22b58)
 https://www.tinkercad.com/things/9VjtM2zCOTH-copy-of-dc-gear-with-l298n-/editel?tenant=circuits
